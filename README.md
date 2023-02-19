@@ -227,7 +227,7 @@ function jsonProxy(url) {
 import { FetchWrapper } from "use-nft"
 ```
 
-Pass the fetcher declaration to the `FetchWrapper` and call the `fetchNft` function to retreive the NFT data.
+Pass the fetcher declaration to the `FetchWrapper` and call the `fetchNft` function to retrieve the NFT data.
 
 ```js
 // See the documentation for <NftProvider /> fetcher prop
